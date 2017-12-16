@@ -6,7 +6,7 @@
     "test": "./node_modules/.bin/tape -r babel-register tests/**/*.spec.js"
   },
   "description": "a redux action type define helper",
-  "main": "lib/index.js",
+  "main": "src/index.js",
   "author": "Darmody <eterlf41@gmail.com>",
   "repository": {
     "type": "git",
